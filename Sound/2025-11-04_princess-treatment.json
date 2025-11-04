@@ -1,0 +1,16 @@
+{
+  "type": "Sound",
+  "id": "sound_1762225547641",
+  "slug": "princess-treatment",
+  "title": "Princess Treatment",
+  "date": "2025-11-04T00:00:00.000Z",
+  "description": "",
+  "createdAt": "2025-11-04T03:06:54.878Z",
+  "updatedAt": "2025-11-04T03:06:54.878Z",
+  "isActive": true,
+  "metadata": {},
+  "text": "great song",
+  "image": "https://f4.bcbits.com/img/a3102153555_16.jpg",
+  "imageWidth": "600px",
+  "audioUrl": "https://thebigkisses.bandcamp.com/track/princess-treatment"
+}
