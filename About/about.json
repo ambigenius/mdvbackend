@@ -3,11 +3,14 @@
   "id": "about_1762139234609",
   "slug": "about-maeve-de-vere",
   "title": "About Maeve de Vere",
-  "date": "2025-11-03T00:00:00.000Z",
+  "date": "2025-11-03T00:00:00Z",
   "description": "",
   "createdAt": "2025-11-03T03:08:01.312Z",
-  "updatedAt": "2025-11-03T03:08:01.312Z",
+  "updatedAt": "2025-11-07T02:44:16.178Z",
   "isActive": true,
-  "metadata": {},
+  "metadata": {
+    "instagram": "https://instagram.com/thebigkisses",
+    "substack": "https://substack.com/@maevedevere"
+  },
   "text": "Maeve is a cool cat who is very talented and is gonna get up on the net"
 }
