@@ -1,0 +1,18 @@
+{
+  "type": "Sound",
+  "id": "sound_1762479436034",
+  "slug": "album2",
+  "title": "album2",
+  "date": "2025-11-07T00:00:00.000Z",
+  "description": "",
+  "createdAt": "2025-11-07T01:37:30.398Z",
+  "updatedAt": "2025-11-07T01:37:30.398Z",
+  "isActive": true,
+  "metadata": {
+    "audioEmbed": "<iframe style=\"border: 0; width: 350px; height: 470px;\" src=\"https://bandcamp.com/EmbeddedPlayer/album=3472240159/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/\" seamless><a href=\"https://thebigkisses.bandcamp.com/album/the-big-kisses\">The Big Kisses by The Big Kisses</a></iframe>"
+  },
+  "text": "ff",
+  "image": "https://f4.bcbits.com/img/a0708893162_10.jpg",
+  "imageWidth": "600px",
+  "audioUrl": null
+}
