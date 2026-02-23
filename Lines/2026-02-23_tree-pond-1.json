@@ -6,16 +6,18 @@
   "date": "2026-02-23T00:00:00Z",
   "description": "",
   "createdAt": "2026-02-23T19:07:56.459Z",
-  "updatedAt": "2026-02-23T19:09:23.156Z",
+  "updatedAt": "2026-02-23T19:11:21.811Z",
   "isActive": true,
   "metadata": {
     "imageLinks": [
-      "<a data-flickr-embed=\"true\" href=\"https://www.flickr.com/photos/204255154@N03/55112777065/in/dateposted-public/\" title=\"tempImagegJXAAB\"><img src=\"https://live.staticflickr.com/65535/55112777065_bc33b2ec91_b.jpg\" width=\"768\" height=\"1024\" alt=\"tempImagegJXAAB\"/></a><script async src=\"//embedr.flickr.com/assets/client-code.js\" charset=\"utf-8\"></script>"
+      "[url=https://flic.kr/p/2rY8owe][img]https://live.staticflickr.com/65535/55112777065_bc33b2ec91_b.jpg[/img][/url][url=https://flic.kr/p/2rY8owe]tempImagegJXAAB[/url] by [url=https://www.flickr.com/photos/204255154@N03/]mab hughes[/url]",
+      "on Flickr"
     ]
   },
   "text": "tree pond 1",
   "image": [
-    "<a data-flickr-embed=\"true\" href=\"https://www.flickr.com/photos/204255154@N03/55112777065/in/dateposted-public/\" title=\"tempImagegJXAAB\"><img src=\"https://live.staticflickr.com/65535/55112777065_bc33b2ec91_b.jpg\" width=\"768\" height=\"1024\" alt=\"tempImagegJXAAB\"/></a><script async src=\"//embedr.flickr.com/assets/client-code.js\" charset=\"utf-8\"></script>"
+    "[url=https://flic.kr/p/2rY8owe][img]https://live.staticflickr.com/65535/55112777065_bc33b2ec91_b.jpg[/img][/url][url=https://flic.kr/p/2rY8owe]tempImagegJXAAB[/url] by [url=https://www.flickr.com/photos/204255154@N03/]mab hughes[/url]",
+    "on Flickr"
   ],
   "imageWidth": "600px"
 }
