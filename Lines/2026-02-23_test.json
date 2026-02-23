@@ -1,0 +1,15 @@
+{
+  "type": "Lines",
+  "id": "lines_1771820026337",
+  "slug": "test",
+  "title": "test",
+  "date": "2026-02-23T00:00:00.000Z",
+  "description": "",
+  "createdAt": "2026-02-23T04:14:57.866Z",
+  "updatedAt": "2026-02-23T04:14:57.866Z",
+  "isActive": true,
+  "metadata": {},
+  "text": "photo",
+  "image": "https://unsplash.com/s/photos/photo",
+  "imageWidth": "600px"
+}
