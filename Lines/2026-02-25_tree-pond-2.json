@@ -3,13 +3,19 @@
   "id": "lines_1772039007006",
   "slug": "tree-pond-2",
   "title": "tree pond 2",
-  "date": "2026-02-25T00:00:00.000Z",
+  "date": "2026-02-25T00:00:00Z",
   "description": "",
   "createdAt": "2026-02-25T17:04:07.051Z",
-  "updatedAt": "2026-02-25T17:04:07.051Z",
+  "updatedAt": "2026-03-05T20:54:35.247Z",
   "isActive": true,
-  "metadata": {},
+  "metadata": {
+    "imageLinks": [
+      "https://www.flickr.com/photo_download.gne?id=55116022279&secret=58369a5714&size=c&source=photoPageEngagement"
+    ]
+  },
   "text": "tree pond 2",
-  "image": "https://www.flickr.com/photos/204255154@N03/55116022279/sizes/l/",
+  "image": [
+    "https://www.flickr.com/photo_download.gne?id=55116022279&secret=58369a5714&size=c&source=photoPageEngagement"
+  ],
   "imageWidth": "600px"
 }
